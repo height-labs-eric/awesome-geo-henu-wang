@@ -46,6 +46,7 @@ Learn more: [What is GEO? A Complete Guide](https://geoscoreai.com/blog/what-is-
 |------|-------------|---------|
 | [GEOScore](https://geoscoreai.com) | AI-powered scanner that checks how your website performs in AI search engines (ChatGPT, Perplexity, Gemini). Runs 11 technical checks including AI crawl access, structured data, llms.txt, content structure, and citation potential. | Free scan / $29 Pro report |
 | [AI Crawler Access Checker](https://geoscoreai.com/tools/ai-crawler-checker) | Free tool to instantly check if ChatGPT, Perplexity, Claude, and Gemini can crawl your website. Analyzes robots.txt for 12+ AI bots. | Free |
+| [Pineprompt](https://pineprompt.com) | AI search visibility monitoring that runs tracked prompts daily on ChatGPT, Gemini, Claude, Google AI Overviews and Google AI Mode, and reports brand mentions, position, sentiment, cited sources and share of voice. Free llms.txt generator and validator at pineprompt.com/tools. | Paid from $99/month; free tools available |
 
 ### Traditional SEO Tools with AI Features
 
